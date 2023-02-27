@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831793995333",
+    "project_id": "remed-rinto",
+    "storage_bucket": "remed-rinto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831793995333:android:34b99bc8152d0fade48d2c",
+        "android_client_info": {
+          "package_name": "com.example.remed_sem5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831793995333-6m4bna9popiiqvcme2u0llga6g3d5agt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remed_sem5",
+            "certificate_hash": "91b3cbe47f78f8eaff30e0c7383db594bffc94a4"
+          }
+        },
+        {
+          "client_id": "831793995333-vuhru0lm9ampkfusco5ujh0lglc1m0mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVWk8BdzILPZvYnaXDOkQW_OofYEvuL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831793995333-vuhru0lm9ampkfusco5ujh0lglc1m0mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
